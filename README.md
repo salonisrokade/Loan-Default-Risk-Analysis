@@ -3,7 +3,10 @@
 This project uses SQL and Power BI to explore, analyze, and visualize **loan default risk patterns** based on a real-world dataset. The insights generated help in understanding post-loan issuance risk – a key area in banking analytics and credit risk teams.
 
 ## Business Problem
-Analyze loan default risks using post-issuance loan data and generate actionable insights for risk teams in financial institutions (e.g., CIBC).
+Analyze loan default risks using post-issuance loan data and generate actionable insights for risk teams in financial institutions.
+
+# Dashboard
+![Dashboard Preview](dashboard.png)
 
 ## Key Insights
 - Higher default rates are observed in certain regions and loan purposes.
