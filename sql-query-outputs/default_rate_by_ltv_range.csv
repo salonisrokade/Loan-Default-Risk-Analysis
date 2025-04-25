@@ -1,0 +1,4 @@
+ltv_range,total_loans,defaults,default_rate
+"Low (<80)",97049,25888,26.68
+"High (>90)",24772,5647,22.80
+"Moderate (80-90)",25940,4727,18.22

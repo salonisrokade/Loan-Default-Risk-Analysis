@@ -1,0 +1,5 @@
+income_bracket,total_loans,defaults,default_rate
+60K-100K,116,43,37.07
+>100K,55,19,34.55
+30K-60K,854,235,27.52
+<30K,146736,35965,24.51

@@ -1,0 +1,5 @@
+credit_score_range,total_loans,defaults,default_rate
+"Excellent (750+)",55665,13837,24.86
+"Poor (<600)",36962,9063,24.52
+"Fair (600-699)",36975,9008,24.36
+"Good (700-749)",18159,4354,23.98
