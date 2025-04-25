@@ -6,7 +6,7 @@ This project uses SQL and Power BI to explore, analyze, and visualize **loan def
 Analyze loan default risks using post-issuance loan data and generate actionable insights for risk teams in financial institutions.
 
 # Dashboard
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard-powerbi.png)
 
 ## Key Insights
 - Higher default rates are observed in certain regions and loan purposes.
