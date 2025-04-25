@@ -15,7 +15,7 @@ Analyze loan default risks using post-issuance loan data and generate actionable
 - Power BI: Visualization and storytelling
 - Excel: Initial data preprocessing and cleaning
 
-## ✨ Key Features
+## Key Features
 - Region-wise and demographic breakdown of defaults
 - KPI cards ( Defaults, Avg. Borrower Income, Default Rate)
 - Filters/slicers for dynamic exploration
